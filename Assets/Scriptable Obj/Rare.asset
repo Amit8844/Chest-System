@@ -17,6 +17,6 @@ MonoBehaviour:
   UnlockDuration: 0
   MinCoins: 100
   MaxCoins: 200
-  MinGems: 0
+  MinGems: 5
   MaxGems: 25
   UnlockCost: 100
